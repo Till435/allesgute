@@ -11,7 +11,6 @@ export default function Home() {
 
       <main>
         <Header title="Switch!" />
-        <p className="description">
         </p>
       </main>
 
